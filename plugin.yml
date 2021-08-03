@@ -1,0 +1,7 @@
+name: DamageIndicator
+version: 1.0
+api: [3.0.0]
+main: ash\DamageIndicator\Main
+author: Achedon12
+discord: achedon12#0034
+github: https://github.com/leoderoin
